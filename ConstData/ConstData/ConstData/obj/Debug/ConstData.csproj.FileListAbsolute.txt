@@ -1,0 +1,7 @@
+D:\GIT\Practice\Practice_Lab2\ConstData\ConstData\ConstData\bin\Debug\ConstData.exe.config
+D:\GIT\Practice\Practice_Lab2\ConstData\ConstData\ConstData\bin\Debug\ConstData.exe
+D:\GIT\Practice\Practice_Lab2\ConstData\ConstData\ConstData\bin\Debug\ConstData.pdb
+D:\GIT\Practice\Practice_Lab2\ConstData\ConstData\ConstData\obj\Debug\ConstData.csprojResolveAssemblyReference.cache
+D:\GIT\Practice\Practice_Lab2\ConstData\ConstData\ConstData\obj\Debug\ConstData.csproj.CoreCompileInputs.cache
+D:\GIT\Practice\Practice_Lab2\ConstData\ConstData\ConstData\obj\Debug\ConstData.exe
+D:\GIT\Practice\Practice_Lab2\ConstData\ConstData\ConstData\obj\Debug\ConstData.pdb
