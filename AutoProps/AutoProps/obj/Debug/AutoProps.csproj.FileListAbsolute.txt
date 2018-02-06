@@ -1,0 +1,13 @@
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\AutoProps\bin\Debug\AutoProps.exe.config
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\AutoProps\bin\Debug\AutoProps.exe
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\AutoProps\bin\Debug\AutoProps.pdb
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.exe
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\AutoProps\obj\Debug\AutoProps.pdb
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\bin\Debug\AutoProps.exe.config
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\obj\Debug\AutoProps.exe
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\obj\Debug\AutoProps.pdb
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\bin\Debug\AutoProps.exe
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\bin\Debug\AutoProps.pdb
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\obj\Debug\AutoProps.csprojResolveAssemblyReference.cache
+D:\GIT\Practice\Practice_Lab2\AutoProps\AutoProps\obj\Debug\AutoProps.csproj.CoreCompileInputs.cache
