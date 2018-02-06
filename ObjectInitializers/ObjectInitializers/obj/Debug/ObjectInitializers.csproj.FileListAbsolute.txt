@@ -1,0 +1,7 @@
+C:\Temp\Practice_Lab2\ObjectInitializers\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe.config
+C:\Temp\Practice_Lab2\ObjectInitializers\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.exe
+C:\Temp\Practice_Lab2\ObjectInitializers\ObjectInitializers\ObjectInitializers\bin\Debug\ObjectInitializers.pdb
+C:\Temp\Practice_Lab2\ObjectInitializers\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csprojResolveAssemblyReference.cache
+C:\Temp\Practice_Lab2\ObjectInitializers\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Temp\Practice_Lab2\ObjectInitializers\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.exe
+C:\Temp\Practice_Lab2\ObjectInitializers\ObjectInitializers\ObjectInitializers\obj\Debug\ObjectInitializers.pdb
